@@ -1,4 +1,4 @@
-# 🎨 **Streamlit Essentials** 🚀
+#  **Streamlit Essentials** 
 
 Welcome to **Streamlit Essentials**, This repository is designed to help beginners and developers get acquainted with Streamlit’s core components and features.
 
